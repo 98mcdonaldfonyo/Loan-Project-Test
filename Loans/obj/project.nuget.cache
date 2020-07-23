@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FwhM8646hUpV8CElnUzC4XWfFrmxN5nql53+N8C7Bc4MhiIp59lVdQv2I3CHKvNxIUT5Xr4hdazv7aVMK2nUVQ==",
+  "success": true,
+  "projectFilePath": "D:\\Mc Donald Fonyo\\Mc Donald External Projects\\Loan\\Mc D NUnit Test Loan Project\\Loans\\Loans.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\mcdon\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\mcdon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

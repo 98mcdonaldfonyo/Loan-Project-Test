@@ -1,0 +1,27 @@
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\01TestProject\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+C:\Users\mcdon\Downloads\nunit-3-dotnet-testing-introduction\02\demos\before\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\bin\Debug\netcoreapp2.1\Loans.deps.json
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\bin\Debug\netcoreapp2.1\Loans.dll
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\bin\Debug\netcoreapp2.1\Loans.pdb
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.csprojAssemblyReference.cache
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfoInputs.cache
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.AssemblyInfo.cs
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.csproj.CoreCompileInputs.cache
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.dll
+D:\Mc Donald Fonyo\Mc Donald External Projects\Loan\Mc D NUnit Test Loan Project\Loans\obj\Debug\netcoreapp2.1\Loans.pdb
